@@ -7,7 +7,7 @@ public class FormulaCreator {
         int a = 5;
         int b = 4;
 
-        double res = (9 * (a * a) - 5 * b + 2 + a - 7) * ((a + b - 4*a*b) / 2);
+        double res = (9 * (a * a) - 5 * b + 2 + a - 7) * ((a + b - 4 * a * b) / 2);
         System.out.println(res);
     }
 }
